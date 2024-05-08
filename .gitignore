@@ -60,5 +60,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Bin folder
+bin/
+
 # Test files
 tests/*bin
